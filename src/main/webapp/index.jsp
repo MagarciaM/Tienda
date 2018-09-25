@@ -12,6 +12,6 @@
         <title> Tienda </title>
     </head>
     <body>
-        <h1> TIENDA </h1>
+        <h1> Hello Word! </h1>
     </body>
 </html>
